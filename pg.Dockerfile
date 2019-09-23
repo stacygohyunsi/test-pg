@@ -1,0 +1,1 @@
+FROM dkregistry-nectar.apps.thenectar.net/test-tl/pg-image:latest
